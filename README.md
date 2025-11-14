@@ -131,10 +131,3 @@ The database file is created at `web/data/upscript.db` on first run.
 - [ ] Multi-language support
 - [ ] Cloud sync with backend API
 
-## License
-
-[Your License Here]
-
-## Credits
-
-Converted from the Android UpScript app to provide web-based access for children with dysgraphia.
